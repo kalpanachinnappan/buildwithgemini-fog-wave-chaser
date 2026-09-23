@@ -1,12 +1,11 @@
-# simple-agent
+# fog-wave-chaser
 
-Simple ReAct agent
-Agent generated with `agents-cli` version `1.4.0`
+California Coastal Fog Wave & Photography Intelligence Agent built with Google Agent Development Kit (ADK), Vertex AI Agent Platform, and Cloud Firestore.
 
 ## Project Structure
 
 ```
-simple-agent/
+fog-wave-chaser/
 ├── app/         # Core agent code
 │   ├── agent.py               # Main agent logic
 │   ├── fast_api_app.py        # FastAPI Backend server
