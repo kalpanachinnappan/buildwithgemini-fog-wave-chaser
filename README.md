@@ -2,6 +2,10 @@
 
 California Coastal Fog Wave & Photography Intelligence Agent built with Google Agent Development Kit (ADK), Vertex AI Agent Platform, and Cloud Firestore.
 
+🌐 **Live Cloud Run App**: [https://fog-wave-frontend-841209747148.us-east1.run.app](https://fog-wave-frontend-841209747148.us-east1.run.app)
+
+![Frosted Glass UI & Spot Quick-Cards Carousel](cloud_run_live_ui.png)
+
 ![Demo](fog_wave_chaser_demo.gif)
 
 > 📹 **High-Definition Demo**: [Watch full HD video (`fog_wave_chaser_demo.webm`)](./fog_wave_chaser_demo.webm)
