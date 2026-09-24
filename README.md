@@ -6,10 +6,6 @@ California Coastal Fog Wave & Photography Intelligence Agent built with Google A
 
 ![Frosted Glass UI & Spot Quick-Cards Carousel](cloud_run_live_ui.png)
 
-![Demo](fog_wave_chaser_demo.gif)
-
-> 📹 **High-Definition Demo**: [Watch full HD video (`fog_wave_chaser_demo.webm`)](./fog_wave_chaser_demo.webm)
-
 ## Project Structure
 
 ```
